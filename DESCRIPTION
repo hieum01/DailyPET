@@ -1,0 +1,15 @@
+Package: DailyPET
+Title: Daily potential evapotranspiration (PET)
+Version: 1.0.2
+Authors: Hyung Eum 
+Maintainer: Hyung Eum <hyung.eum@gov.ab.ca>
+Description: Calculating daily potential evapotranspiration (PET) using temperature-based (Hargreaves and Ordin) 
+     and energy-balance based (Priestley-Taylor and Penman-Monteith) methods.
+License: `use_mit_license()`  
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Depends: 
+    R (>= 2.10)
+Imports: 
+    bigleaf
